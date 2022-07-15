@@ -10,3 +10,5 @@ Day 4 - Covered intro to Tensorflow, operations on tensor units, activation and 
 Day 5 - Covered intro to Neural Networks in Tensorflow, activation functions, optimizers. 9/10 confidence
 <br />
 Day 6 - Covered convolutional neural networks (CNNs), filtering features in photos. 7/10 confidence
+<br />
+Day 7 - Learned about algorithmic bias and its potential for ethical concern if we are not careful about equity between different groups of people. 10/10 conf
