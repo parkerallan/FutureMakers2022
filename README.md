@@ -12,3 +12,9 @@ Day 5 - Covered intro to Neural Networks in Tensorflow, activation functions, op
 Day 6 - Covered convolutional neural networks (CNNs), filtering features in photos. 7/10 confidence
 <br />
 Day 7 - Learned about algorithmic bias and its potential for ethical concern if we are not careful about equity between different groups of people. 10/10 conf
+<br />
+Day 8 - Learned more concepts related to CNNs, regularlization functions like dropout. 8/10 confidence
+<br />
+Day 9 - Learned about specific loss functions MSE MSLE MAE etc. 8/10 confidence
+<br />
+Day 10 - Learned more about activation functions for hidden and output layers. 8/10 confidence
