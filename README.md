@@ -18,3 +18,17 @@ Day 8 - Learned more concepts related to CNNs, regularlization functions like dr
 Day 9 - Learned about specific loss functions MSE MSLE MAE etc. 8/10 confidence
 <br />
 Day 10 - Learned more about activation functions for hidden and output layers. 8/10 confidence
+<br />
+Day 11 - Covered ethics in AI and different type of bias, how the can effect predictions. 10/10 confidence
+<br />
+Day 12 - Covered image classification, grouping cat and dog photos using max pooling/conv. 8/10 confidence
+<br />
+Day 13 - Learned more about overfitting and underfitting, its affect on accuracy and loss. 9/10 confidence
+<br />
+Day 14 - Covered intro to Autoencoding, upsampling/downsampling. 9/10 confidence
+<br />
+Day 15 - Learned more about Affective Computing, training a model to predict voice samples for certain emotions. 6/10 confidence
+<br />
+Day 16 - Covered Natural Language Processing, learning patterns in human language text. 8/10 confidence
+<br />
+Day 17 - Covered Computer Vision basics, features and info from image or video. 7/10 confidence
